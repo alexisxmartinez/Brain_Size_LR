@@ -1,4 +1,4 @@
-# 🧠 Does brain size allow us to predict intelligence?
+# 🧠 Is it possible to predict intelligence based on brain size?
 
 ## Project Overview 📋
 
