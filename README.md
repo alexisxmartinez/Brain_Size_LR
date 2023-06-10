@@ -1,10 +1,10 @@
-# 🧠💪 Does brain size allow us to predict intelligence? 📊
+# 🧠 Does brain size allow us to predict intelligence?
 
 ## Project Overview 📋
 
 In this project, we explore the fascinating relationship between brain measurements, such as heights and weights, and intelligence quotient (IQ). By leveraging a comprehensive dataset, we delve into the question of whether these brain attributes hold enough predictive power to estimate an individual's intelligence. Our primary approach involves employing linear regression models, including the analysis of variance (ANOVA) technique.
 
-Through rigorous data analysis and statistical modeling, we aim to uncover any potential correlations or associations between brain measurements and IQ. By applying linear regression techniques, we can assess the extent to which brain heights, weights, and other relevant factors can serve as predictors of intelligence. This investigation offers valuable insights into the potential influence of brain attributes on cognitive abilities, furthering our understanding of the complex interplay between the brain and intelligence. 🌟🧠💡
+Through rigorous data analysis and statistical modeling, we aim to uncover any potential correlations or associations between brain measurements and IQ. By applying linear regression techniques, we can assess the extent to which brain heights, weights, and other relevant factors can serve as predictors of intelligence. This investigation offers valuable insights into the potential influence of brain attributes on cognitive abilities, furthering our understanding of the complex interplay between the brain and intelligence. 💡
 
 ## Technologies Used 💻
 - Python
